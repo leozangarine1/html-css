@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{background-color: rgb(57, 136, 214);font-size: 20px;}
 
         h1{color: darkblue;background-color: darkgreen;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;;
@@ -10,4 +11,18 @@ body{background-color: rgb(57, 136, 214);font-size: 20px;}
         }
         a{color:darkmagenta;background-color: darkorange;
 
+=======
+body{background-color: rgb(57, 136, 214);font-size: 20px;}
+
+        h1{color: darkblue;background-color: darkgreen;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;;
+           font-size: 1.5em;}
+
+        h2{color: rgb(0, 117, 0);font-family: Verdana, Geneva, Tahoma, sans-serif;font-size: 1.25em;}
+
+        p{color: darkmagenta;font-family: Georgia, 'Times New Roman', Times, serif;
+
+        }
+        a{color:darkmagenta;background-color: darkorange;
+
+>>>>>>> d752b32a0d052878a6496673dcd731c449c09e1b
         }

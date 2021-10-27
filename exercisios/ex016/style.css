@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @charset "UTF-8";
 
 * {
@@ -29,4 +30,37 @@ h2{
 
 p {
     text-align: justify;
+=======
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: linear-gradient(to right,#0455BF,#202E59);
+}
+
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #0455bfa8 ;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}   
+
+h1{
+    color:#F29F05 ;
+    text-align: center;
+    text-shadow: 1px 1px 2px #f29f057a;
+}
+
+h2{
+    color:#F2BE5C;
+}
+
+p {
+    text-align: justify;
+>>>>>>> d752b32a0d052878a6496673dcd731c449c09e1b
 }
